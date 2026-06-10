@@ -1,0 +1,356 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* nav bar sec design start.....  */
+.navbar-sec {
+    background-color: #000000;
+    font-family: "Open Sans", sans-serif;
+}
+
+.navbar-sec button {
+    font-size: 1.1rem;
+    background-color: #E50914;
+    border: none;
+    color: #FFFFFF;
+    font-weight: 400;
+    border-radius: 5px;
+}
+
+/* nav bar sec design end.....  */
+/* top sec design start.....  */
+.top-sec {
+    color: #FFFFFF;
+    background-color: #000000;
+    height: 90.2vh;
+    font-family: "Open Sans", sans-serif;
+}
+
+.top-sec h1 {
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.top-sec p {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.top-sec button {
+    font-size: 1.3rem;
+    background-color: #E50914;
+    border: none;
+    color: #FFFFFF;
+    font-weight: 400;
+    width: 30%;
+}
+
+/* top sec design end.....  */
+/* episode sec design start...  */
+.episode-sec {
+    background-image: url("../IMAGE/episode-bg.jpg");
+    font-family: "Open Sans", sans-serif;
+    color: #FFFFFF;
+}
+
+.episode-sec .top-para {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.episode-sec h2 {
+    font-size: 3.2rem;
+    font-weight: 700;
+}
+
+.episode-sec .top-para-2 p {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.episode-sec .para-main {
+    font-size: 1rem;
+    color: #ffffffa8;
+    font-weight: 400;
+    text-align: justify;
+}
+
+.episode-sec button {
+    font-size: 1.1rem;
+    background-color: #E50914;
+    border: none;
+    color: #FFFFFF;
+    font-weight: 500;
+    width: 38%;
+}
+
+.episode-sec h3 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+/* episose sec design snd.....  */
+/* profile-sec design start......  */
+.profile-sec {
+    background-color: #000000;
+    font-family: "Open Sans", sans-serif;
+}
+
+.profile-sec .img-div {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #E50914;
+}
+
+.profile-sec h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+.profile-sec p {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+/* profile-sec end .....  */
+/* table sec strt ......  */
+.table-sec {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: "Open Sans", sans-serif;
+}
+
+.table-sec table {
+    color: #FFFFFF;
+    background-color: #181818;
+}
+
+.table-sec table td {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.table-sec table th .button1 {
+    font-size: 1.3rem;
+    background-color: #E5091480;
+    border: none;
+    color: #FFFFFF;
+    font-weight: 600;
+    width: 60%;
+    border-radius: 10px;
+}
+
+.table-sec table th .adv-btn {
+    background-color: transparent;
+    font-size: 1.3rem;
+    color: #FFFFFF;
+    font-weight: 600;
+}
+
+.table-sec .table-info {
+    background-color: #181818;
+}
+
+.table-sec p {
+    font-size: 1rem;
+    text-align: justify;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.table-sec button {
+    font-size: 1rem;
+    background-color: #E50914;
+    border: none;
+    color: #FFFFFF;
+    font-weight: 400;
+    width: 20%;
+}
+
+/* table sec end.....  */
+/* question-sec design start.....  */
+.question-sec {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: "Open Sans", sans-serif;
+}
+
+.question-sec h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.question-sec .question-sec-div div {
+    background-color: #121212;
+    border-radius: 10px;
+}
+
+.question-sec .question-sec-div div p {
+    margin-bottom: 0%;
+    font-size: 1.3rem;
+    color: #FFFFFF;
+    font-weight: 600;
+}
+
+/* question-sec design end.....  */
+/* movie sec design start.....  */
+.movie-sec {
+    background-image: url("../IMAGE/bg-img.jpg");
+    color: #FFFFFF;
+    font-family: "Open Sans", sans-serif;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.movie-sec h2 {
+    font-size: 2.7rem;
+    font-weight: 700;
+}
+
+.movie-sec p {
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.movie-sec button {
+    font-size: 1rem;
+    background-color: #E50914;
+    border: none;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+
+/* movie sec deign end.....  */
+
+/* footer sec start/.... */
+.footer-sec {
+    background-color: #121212;
+    color: #FFFFFF;
+
+}
+
+.footer-sec li {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.footer-sec button {
+    font-size: 1.1rem;
+    background-color: transparent;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    font-weight: 400;
+    border-radius: 5px;
+}
+
+.footer-sec p {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+/* footer sec end....  */
+
+@media screen and (max-width:600px) {
+    .navbar-sec button {
+        font-size: 0.6rem;
+    }
+    .top-sec {
+        height: 100%;
+    }
+
+    .top-sec h1 {
+        font-size: 1.8rem;
+    }
+
+    .top-sec p {
+        font-size: 0.8rem;
+    }
+
+    .top-sec button {
+        font-size: 0.8rem;
+    }
+
+    .episode-sec .top-para {
+        font-size: 0.8rem;
+    }
+
+    .episode-sec h2 {
+        font-size: 2rem;
+    }
+
+    .episode-sec .top-para-2 p {
+        font-size: 0.6rem;
+    }
+
+    .episode-sec .para-main {
+        font-size: 0.9rem;
+    }
+
+    .episode-sec button {
+        font-size: 0.8rem;
+        width: 50%;
+    }
+
+    .episode-sec h3 {
+        font-size: 1.3rem;
+    }
+
+    .profile-sec h2 {
+        font-size: 1rem;
+    }
+
+    .profile-sec p {
+        font-size: 0.6rem;
+    }
+
+    .question-sec h2 {
+        font-size: 1.2rem;
+    }
+    .table-sec table th .button1 {
+        font-size: 0.9rem;
+        width: 100%;
+    }
+
+    .table-sec table td {
+        font-size: 0.5rem;
+    }
+
+    .table-sec p {
+        font-size: 0.8rem;
+    }
+
+    .table-sec button {
+        width: 50%;
+    }
+
+    .table-sec table th .adv-btn {
+        font-size: 0.9rem;
+    }
+
+    .question-sec .question-sec-div div p {
+        font-size: 0.9rem;
+    }
+
+    .movie-sec h2 {
+        font-size: 2rem;
+    }
+
+    .movie-sec p {
+        font-size: 1rem;
+    }
+
+    .footer-sec li {
+        font-size: 0.8rem;
+    }
+
+    .footer-sec button {
+        font-size: 0.6rem;
+    }
+
+    .footer-sec p {
+        font-size: 0.8rem;
+    }
+
+    
+}
